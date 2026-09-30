@@ -1,0 +1,26 @@
+# Build outputs, machine-local runtimes, dependencies and private development data
+.build/
+.swiftpm/
+outputs/
+work/
+design-reference/
+Chillor-MVP-PRD.md
+Resources/AgentPython/
+Resources/ModelRuntime/
+Resources/AgentTools/packages/
+Resources/AppIcon.icns
+# Historical notes contain local test context; publish curated documentation only.
+docs/*
+!docs/public/
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.sqlite*
+*.db
+conversation.json
+AgentWork/

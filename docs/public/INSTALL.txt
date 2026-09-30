@@ -1,0 +1,14 @@
+Chillor — macOS preview
+
+Apple Silicon required. Drag Chillor.app to Applications.
+First launch offers local model setup. Model downloads require internet access
+and sufficient disk space and memory. You can configure the optional DeepSeek
+provider in Settings; its inference requests leave this Mac.
+
+This is an early preview. Developer builds are ad hoc signed, not notarized.
+Build from trusted source if macOS will not open a downloaded build.
+
+History, memories and task workspaces are stored locally. Inspect generated
+files and review desktop actions before relying on them.
+
+Source and issue tracker: https://github.com/cellier/Chillor
