@@ -1,0 +1,792 @@
+docs/public/VALIDATION.md
+  s_967679197c1a8b::t_0ed25c7a97a48d 1-7
+Resources/AgentTools/server.py
+  s_967679197c1a8b::t_0ed25c7a97a48d 1-336
+Sources/Chillor/MessageDetection.swift
+  s_967679197c1a8b::t_0ed25c7a97a48d 1-381
+Sources/Chillor/MessageDetectionChecks.swift
+  s_967679197c1a8b::t_0ed25c7a97a48d 1-98
+README.md
+  s_967679197c1a8b::t_0ed25c7a97a48d 39
+  s_967679197c1a8b::t_ff0a67db5cee1d 1-38,40-70
+.gitignore
+  s_967679197c1a8b::t_2f0daeb58300a3 1-26
+CONTRIBUTING.md
+  s_967679197c1a8b::t_523b8c65c4d51a 1-14
+LICENSE
+  s_967679197c1a8b::t_24c76c377d7bee 1-21
+Package.swift
+  s_1c9f47cfbd062d::t_46200b62885aaa 1-9
+Resources/AgentRuntime-LICENSE.txt
+  s_1c9f47cfbd062d::t_25eaa8ae110404 1-201
+Resources/AgentTools/agent-requirements.lock
+  s_967679197c1a8b::t_e7fdf421c6f270 1-45
+Resources/AgentTools/requirements.txt
+  s_1c9f47cfbd062d::t_7e96f934e280fc 1-8
+SECURITY.md
+  s_967679197c1a8b::t_eb1db383063094 1-12
+Sources/CSQLite/module.modulemap
+  s_1c9f47cfbd062d::t_240480fcb658e6 1-5
+Sources/CSQLite/shim.h
+  s_1c9f47cfbd062d::t_b734b36162395e 1
+Sources/Chillor/ButtonFeedback.swift
+  s_1c9f47cfbd062d::t_872b920afcd13f 1-50
+Sources/Chillor/ComposerActionButton.swift
+  s_1c9f47cfbd062d::t_619fb0de0f70f5 1-62
+Sources/Chillor/ConversationRecall.swift
+  s_1c9f47cfbd062d::t_a2427e2cbb1af5 1-76
+Sources/Chillor/DesktopTools.swift
+  s_1c9f47cfbd062d::t_85f6d181f4e0df 1-100
+Sources/Chillor/GenerationStatus.swift
+  s_1c9f47cfbd062d::t_f8b961771fb87a 1-31
+Sources/Chillor/GradientBackdrop.swift
+  s_1c9f47cfbd062d::t_58afad5fa85b48 1-52
+Sources/Chillor/MarkdownChecks.swift
+  s_967679197c1a8b::t_dcd15d52c3daf9 1-92
+Sources/Chillor/MarkdownMessage.swift
+  s_967679197c1a8b::t_224110513be5d3 1-141
+Sources/Chillor/ScreenContextGeometry.swift
+  s_1c9f47cfbd062d::t_fb676744c133ab 1-50
+Sources/Chillor/ScrollHangChecks.swift
+  s_967679197c1a8b::t_65bedeb7da7255 1-41
+Sources/Chillor/TaskRuntime.swift
+  s_1c9f47cfbd062d::t_291dd83522a4df 1-197
+Sources/Chillor/TaskRuntimeChecks.swift
+  s_1c9f47cfbd062d::t_1c6811d306c6de 1-339
+Sources/Chillor/UIRenderingChecks.swift
+  s_1c9f47cfbd062d::t_6a908cf2f1b51b 1-66
+THIRD_PARTY_NOTICES.md
+  s_967679197c1a8b::t_45f168c2fe915e 1-21
+Tests/agent_live_eval.py
+  s_967679197c1a8b::t_9fd7e03af7f368 1-68
+Tests/agent_loop_test.py
+  s_1c9f47cfbd062d::t_123e972160e75e 1-211
+Tests/agent_speed_live_eval.py
+  s_967679197c1a8b::t_dd859a0bbf57da 1-46
+Tests/agent_tools_test.py
+  s_1c9f47cfbd062d::t_3234f4316103ab 1-61
+Tests/context_memory_live_eval.py
+  s_967679197c1a8b::t_02fdf03c5db22d 1-87
+Tests/sandbox_test.py
+  s_967679197c1a8b::t_fd0b3960b902d7 1-175
+Tests/web_tools_test.py
+  s_967679197c1a8b::t_7acb2e3beefae6 1-40
+Vendor/NetworkImage/.github/CODE_OF_CONDUCT.md
+  s_1c9f47cfbd062d::t_c7d7cc3ed9059f 1-128
+Vendor/NetworkImage/.github/workflows/ci.yml
+  s_1c9f47cfbd062d::t_ecf232d913f9b2 1-17
+Vendor/NetworkImage/.github/workflows/format.yml
+  s_1c9f47cfbd062d::t_1c67a1c4dd7fb5 1-23
+Vendor/NetworkImage/.gitignore
+  s_1c9f47cfbd062d::t_39207e19e4e904 1-90
+Vendor/NetworkImage/.spi.yml
+  s_1c9f47cfbd062d::t_acaefa9a0c6939 1-4
+Vendor/NetworkImage/.swift-version
+  s_1c9f47cfbd062d::t_38700a796650a6 1
+Vendor/NetworkImage/Demo/NetworkImageDemo.xcodeproj/project.pbxproj
+  s_1c9f47cfbd062d::t_bc82a007c70987 1-524
+Vendor/NetworkImage/Demo/NetworkImageDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+  s_1c9f47cfbd062d::t_f9c0765eec7b7c 1-7
+Vendor/NetworkImage/Demo/NetworkImageDemo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+  s_1c9f47cfbd062d::t_81ce5f97c347bd 1-8
+Vendor/NetworkImage/Demo/Package.swift
+  s_1c9f47cfbd062d::t_202fa3cae63b42 1-11
+Vendor/NetworkImage/Demo/Shared/Assets.xcassets/AccentColor.colorset/Contents.json
+  s_1c9f47cfbd062d::t_3619a40836ae12 1-11
+Vendor/NetworkImage/Demo/Shared/Assets.xcassets/AppIcon.appiconset/Contents.json
+  s_1c9f47cfbd062d::t_27cdeb85eab18e 1-148
+Vendor/NetworkImage/Demo/Shared/Assets.xcassets/Contents.json
+  s_1c9f47cfbd062d::t_cadd5dc62467e1 1-6
+Vendor/NetworkImage/Demo/Shared/ContentView.swift
+  s_1c9f47cfbd062d::t_6ff401c2fb2bbb 1-52
+Vendor/NetworkImage/Demo/Shared/ImageListView.swift
+  s_1c9f47cfbd062d::t_7212359bf58417 1-40
+Vendor/NetworkImage/Demo/Shared/ImagesView.swift
+  s_1c9f47cfbd062d::t_70888b8701fcf5 1-21
+Vendor/NetworkImage/Demo/Shared/InlineNavigationBarTitleDisplayModeModifier.swift
+  s_1c9f47cfbd062d::t_4c438f90833972 1-17
+Vendor/NetworkImage/Demo/Shared/NetworkImageDemoApp.swift
+  s_1c9f47cfbd062d::t_1abb615cedb5cd 1-10
+Vendor/NetworkImage/Demo/Shared/PlaceholdersView.swift
+  s_1c9f47cfbd062d::t_d662523cb50fa5 1-61
+Vendor/NetworkImage/Demo/Shared/RandomImageURL.swift
+  s_1c9f47cfbd062d::t_a170f1ad5ba17f 1-21
+Vendor/NetworkImage/Demo/Shared/RandomImageView.swift
+  s_1c9f47cfbd062d::t_dc83d784679e55 1-29
+Vendor/NetworkImage/Demo/Shared/StyledImagesView.swift
+  s_1c9f47cfbd062d::t_8f325327a1d4f1 1-31
+Vendor/NetworkImage/Demo/iOS/Info.plist
+  s_1c9f47cfbd062d::t_1b1f9c6e850bac 1-50
+Vendor/NetworkImage/Demo/macOS/Info.plist
+  s_1c9f47cfbd062d::t_39f31c138f05be 1-26
+Vendor/NetworkImage/Demo/macOS/macOS.entitlements
+  s_1c9f47cfbd062d::t_bdf6a9c379a38b 1-12
+Vendor/NetworkImage/LICENSE
+  s_1c9f47cfbd062d::t_feb78f1e8822ad 1-21
+Vendor/NetworkImage/Makefile
+  s_1c9f47cfbd062d::t_7cf030f68ea305 1-26
+Vendor/NetworkImage/Package.swift
+  s_1c9f47cfbd062d::t_305553f446b196 1-24
+Vendor/NetworkImage/Package@swift-6.0.swift
+  s_1c9f47cfbd062d::t_afdb73e52ff5fc 1-24
+Vendor/NetworkImage/README.md
+  s_1c9f47cfbd062d::t_da0bd3fcbcee73 1-110
+Vendor/NetworkImage/Sources/NetworkImage/Deprecations.swift
+  s_1c9f47cfbd062d::t_2dfba3cc0914f3 1-36
+Vendor/NetworkImage/Sources/NetworkImage/ImageSource.swift
+  s_1c9f47cfbd062d::t_4d34e5048df9b7 1-6
+Vendor/NetworkImage/Sources/NetworkImage/NetworkImage.swift
+  s_1c9f47cfbd062d::t_3a4ec32b7f46b1 1-220
+Vendor/NetworkImage/Sources/NetworkImage/NetworkImageCache.swift
+  s_1c9f47cfbd062d::t_699a0d4eb1fb45 1-49
+Vendor/NetworkImage/Sources/NetworkImage/NetworkImageLoader.swift
+  s_1c9f47cfbd062d::t_55d8354492f668 1-107
+Vendor/NetworkImage/Sources/NetworkImage/NetworkImageModel.swift
+  s_1c9f47cfbd062d::t_ca25ddf047e0e8 1-56
+Vendor/NetworkImage/Sources/NetworkImage/NetworkImageState.swift
+  s_1c9f47cfbd062d::t_74bfb8419fdd5e 1-21
+Vendor/NetworkImage/Sources/NetworkImage/TaskModifier.swift
+  s_1c9f47cfbd062d::t_0796576b08234c 1-34
+Vendor/NetworkImage/Sources/NetworkImage/URLSession+NetworkImage.swift
+  s_1c9f47cfbd062d::t_5713278ce07d5f 1-24
+Vendor/NetworkImage/Sources/NetworkImage/View+NetworkImageLoader.swift
+  s_1c9f47cfbd062d::t_869503a8a1c719 1-19
+Vendor/NetworkImage/Tests/NetworkImageTests/DefaultNetworkImageCacheTests.swift
+  s_1c9f47cfbd062d::t_25ec51cb3b67dc 1-27
+Vendor/NetworkImage/Tests/NetworkImageTests/DefaultNetworkImageLoaderTests.swift
+  s_1c9f47cfbd062d::t_dbeb0458042cbb 1-86
+Vendor/NetworkImage/Tests/NetworkImageTests/Fixtures.swift
+  s_1c9f47cfbd062d::t_814b7fb4def81e 1-29
+Vendor/README.md
+  s_1c9f47cfbd062d::t_0e2aadafe9e092 1-9
+Vendor/swift-cmark/.editorconfig
+  s_1c9f47cfbd062d::t_efa9392b8d8056 1-18
+Vendor/swift-cmark/.github/workflows/ci.yml
+  s_1c9f47cfbd062d::t_0c3e02467c892f 1-83
+Vendor/swift-cmark/.github/workflows/codeql.yml
+  s_1c9f47cfbd062d::t_b0dfb2ac18b0dd 1-77
+Vendor/swift-cmark/.gitignore
+  s_1c9f47cfbd062d::t_dd02837cb7d487 1-46
+Vendor/swift-cmark/.travis.yml
+  s_1c9f47cfbd062d::t_db85b9ceb08c93 1-40
+Vendor/swift-cmark/CMakeLists.txt
+  s_1c9f47cfbd062d::t_ed049d89522f0a 1-61
+Vendor/swift-cmark/COPYING
+  s_1c9f47cfbd062d::t_25396c68900927 1-170
+Vendor/swift-cmark/CheckFileOffsetBits.c
+  s_1c9f47cfbd062d::t_1ad40767401f1e 1-14
+Vendor/swift-cmark/CheckFileOffsetBits.cmake
+  s_1c9f47cfbd062d::t_c60a8d1514f2d6 1-43
+Vendor/swift-cmark/FindAsan.cmake
+  s_1c9f47cfbd062d::t_08b2ff768663a0 1-74
+Vendor/swift-cmark/Makefile
+  s_1c9f47cfbd062d::t_f65570c3266da3 1-226
+Vendor/swift-cmark/Makefile.nmake
+  s_1c9f47cfbd062d::t_f5576b163dfb8d 1-38
+Vendor/swift-cmark/Package.swift
+  s_1c9f47cfbd062d::t_b04389398543e7 1-91
+Vendor/swift-cmark/README.md
+  s_1c9f47cfbd062d::t_1db24a162bae4b 1-213
+Vendor/swift-cmark/api_test/CMakeLists.txt
+  s_1c9f47cfbd062d::t_c7d817820cc5c9 1-31
+Vendor/swift-cmark/api_test/cplusplus.cpp
+  s_1c9f47cfbd062d::t_9122ff254c3122 1-15
+Vendor/swift-cmark/api_test/cplusplus.h
+  s_1c9f47cfbd062d::t_2d728ae02505dc 1-16
+Vendor/swift-cmark/api_test/harness.c
+  s_1c9f47cfbd062d::t_7824ea59afc708 1-111
+Vendor/swift-cmark/api_test/harness.h
+  s_1c9f47cfbd062d::t_98a845bb30c56d 1-35
+Vendor/swift-cmark/api_test/main.c
+  s_1c9f47cfbd062d::t_9802479f0ffe5e 1-1617
+Vendor/swift-cmark/appveyor.yml
+  s_1c9f47cfbd062d::t_5d10fb93e30731 1-21
+Vendor/swift-cmark/bench/samples/block-bq-flat.md
+  s_1c9f47cfbd062d::t_7c0029ed06dc20 1-16
+Vendor/swift-cmark/bench/samples/block-bq-nested.md
+  s_1c9f47cfbd062d::t_7f697bb4c95218 1-13
+Vendor/swift-cmark/bench/samples/block-code.md
+  s_1c9f47cfbd062d::t_84865d52914408 1-11
+Vendor/swift-cmark/bench/samples/block-fences.md
+  s_1c9f47cfbd062d::t_4894cacfe87544 1-14
+Vendor/swift-cmark/bench/samples/block-heading.md
+  s_1c9f47cfbd062d::t_13fe38be5b26eb 1-9
+Vendor/swift-cmark/bench/samples/block-hr.md
+  s_1c9f47cfbd062d::t_cc933387e4f20d 1-10
+Vendor/swift-cmark/bench/samples/block-html.md
+  s_1c9f47cfbd062d::t_14bbd17fd6bdf5 1-32
+Vendor/swift-cmark/bench/samples/block-lheading.md
+  s_1c9f47cfbd062d::t_99bc45915ac6c1 1-8
+Vendor/swift-cmark/bench/samples/block-list-flat.md
+  s_1c9f47cfbd062d::t_5caa772d86baa9 1-67
+Vendor/swift-cmark/bench/samples/block-list-nested.md
+  s_1c9f47cfbd062d::t_1264545350a186 1-36
+Vendor/swift-cmark/bench/samples/block-ref-flat.md
+  s_1c9f47cfbd062d::t_ceb190a6eac87c 1-15
+Vendor/swift-cmark/bench/samples/block-ref-nested.md
+  s_1c9f47cfbd062d::t_668fc28665eb54 1-17
+Vendor/swift-cmark/bench/samples/inline-autolink.md
+  s_1c9f47cfbd062d::t_e684a5729aeee9 1-14
+Vendor/swift-cmark/bench/samples/inline-backticks.md
+  s_1c9f47cfbd062d::t_b3b3d07c1343a4 1-3
+Vendor/swift-cmark/bench/samples/inline-em-flat.md
+  s_1c9f47cfbd062d::t_34f6bee5693270 1-5
+Vendor/swift-cmark/bench/samples/inline-em-nested.md
+  s_1c9f47cfbd062d::t_115985f0fb0f36 1-5
+Vendor/swift-cmark/bench/samples/inline-em-worst.md
+  s_1c9f47cfbd062d::t_3d73ed8cb1ddd3 1-5
+Vendor/swift-cmark/bench/samples/inline-entity.md
+  s_1c9f47cfbd062d::t_a9d7ad47738b0b 1-11
+Vendor/swift-cmark/bench/samples/inline-escape.md
+  s_1c9f47cfbd062d::t_0fa00eaa26d1f4 1-15
+Vendor/swift-cmark/bench/samples/inline-html.md
+  s_1c9f47cfbd062d::t_70c2f5b835f3e2 1-44
+Vendor/swift-cmark/bench/samples/inline-links-flat.md
+  s_1c9f47cfbd062d::t_6460060369fcf2 1-23
+Vendor/swift-cmark/bench/samples/inline-links-nested.md
+  s_1c9f47cfbd062d::t_929357a3d349e6 1-13
+Vendor/swift-cmark/bench/samples/inline-newlines.md
+  s_1c9f47cfbd062d::t_6800b48bd70406 1-24
+Vendor/swift-cmark/bench/samples/lorem1.md
+  s_1c9f47cfbd062d::t_ddb15e8d26c83e 1-13
+Vendor/swift-cmark/bench/samples/rawtabs.md
+  s_1c9f47cfbd062d::t_a69304626af17b 1-18
+Vendor/swift-cmark/bench/statistics.py
+  s_1c9f47cfbd062d::t_0f8b807c9e5f6f 1-595
+Vendor/swift-cmark/bench/stats.py
+  s_1c9f47cfbd062d::t_43c8cdcd5030c6 1-19
+Vendor/swift-cmark/benchmarks.md
+  s_1c9f47cfbd062d::t_05bc279e70354a 1-33
+Vendor/swift-cmark/bin/main.c
+  s_1c9f47cfbd062d::t_a99c317a9b683d 1-336
+Vendor/swift-cmark/changelog.txt
+  s_1c9f47cfbd062d::t_8eb9bc3a21b6e1 1-1245
+Vendor/swift-cmark/data/CaseFolding.txt
+  s_1c9f47cfbd062d::t_06d847034c1de0 1-1495
+Vendor/swift-cmark/extensions/CMakeLists.txt
+  s_1c9f47cfbd062d::t_6a2c39a910db78 1-114
+Vendor/swift-cmark/extensions/autolink.c
+  s_1c9f47cfbd062d::t_42fdcd1e67e03c 1-508
+Vendor/swift-cmark/extensions/autolink.h
+  s_1c9f47cfbd062d::t_0bd1d5a53766f0 1-8
+Vendor/swift-cmark/extensions/core-extensions.c
+  s_1c9f47cfbd062d::t_8e58587bd5bad0 1-31
+Vendor/swift-cmark/extensions/ext_scanners.c
+  s_1c9f47cfbd062d::t_a472cf10be5d24 1-879
+Vendor/swift-cmark/extensions/ext_scanners.h
+  s_1c9f47cfbd062d::t_9b2df7cd8e50be 1-24
+Vendor/swift-cmark/extensions/ext_scanners.re
+  s_1c9f47cfbd062d::t_839ad6fa887f75 1-92
+Vendor/swift-cmark/extensions/include/cmark-gfm-core-extensions.h
+  s_1c9f47cfbd062d::t_973e1ea6a14b5c 1-86
+Vendor/swift-cmark/extensions/strikethrough.c
+  s_1c9f47cfbd062d::t_c01fc513e5b4d1 1-167
+Vendor/swift-cmark/extensions/strikethrough.h
+  s_1c9f47cfbd062d::t_43f3f0130dfddd 1-9
+Vendor/swift-cmark/extensions/table.c
+  s_1c9f47cfbd062d::t_3bb250a5a4d38f 1-1153
+Vendor/swift-cmark/extensions/table.h
+  s_1c9f47cfbd062d::t_795352f6176a41 1-12
+Vendor/swift-cmark/extensions/tagfilter.c
+  s_1c9f47cfbd062d::t_895f0b2e35ed04 1-60
+Vendor/swift-cmark/extensions/tagfilter.h
+  s_1c9f47cfbd062d::t_e622e6fe47159f 1-8
+Vendor/swift-cmark/extensions/tasklist.c
+  s_1c9f47cfbd062d::t_7e265e14687705 1-158
+Vendor/swift-cmark/extensions/tasklist.h
+  s_1c9f47cfbd062d::t_26bb8656fae917 1-8
+Vendor/swift-cmark/fuzz/CMakeLists.txt
+  s_1c9f47cfbd062d::t_bfbc496b306c90 1-22
+Vendor/swift-cmark/fuzz/README.md
+  s_1c9f47cfbd062d::t_9edd69102b8696 1-12
+Vendor/swift-cmark/fuzz/fuzz_quadratic.c
+  s_1c9f47cfbd062d::t_623b242a18bf30 1-91
+Vendor/swift-cmark/fuzz/fuzz_quadratic_brackets.c
+  s_1c9f47cfbd062d::t_92ed9a68429f1b 1-110
+Vendor/swift-cmark/fuzz/fuzzloop.sh
+  s_1c9f47cfbd062d::t_5f96ee0426fbb4 1-28
+Vendor/swift-cmark/man/CMakeLists.txt
+  s_1c9f47cfbd062d::t_682fd89760968e 1-10
+Vendor/swift-cmark/man/make_man_page.py
+  s_1c9f47cfbd062d::t_a58353cb8c7375 1-133
+Vendor/swift-cmark/man/man1/cmark-gfm.1
+  s_1c9f47cfbd062d::t_73ede60312092c 1-78
+Vendor/swift-cmark/man/man3/cmark-gfm.3
+  s_1c9f47cfbd062d::t_be8b35479e370f 1-1042
+Vendor/swift-cmark/nmake.bat
+  s_1c9f47cfbd062d::t_2f6a188d32169e 1
+Vendor/swift-cmark/src/CMakeLists.txt
+  s_1c9f47cfbd062d::t_4d68f8dc413f7c 1-221
+Vendor/swift-cmark/src/arena.c
+  s_1c9f47cfbd062d::t_8d1d51a00251c1 1-123
+Vendor/swift-cmark/src/blocks.c
+  s_1c9f47cfbd062d::t_2f13f177170bc3 1-1659
+Vendor/swift-cmark/src/buffer.c
+  s_1c9f47cfbd062d::t_0b35641ebaf24f 1-278
+Vendor/swift-cmark/src/case_fold_switch.inc
+  s_1c9f47cfbd062d::t_ac8663ad5598c2 1-4327
+Vendor/swift-cmark/src/cmark-gfm_version.h.in
+  s_1c9f47cfbd062d::t_8d763ea4a81022 1-7
+Vendor/swift-cmark/src/cmark.c
+  s_1c9f47cfbd062d::t_642686c21ebdca 1-55
+Vendor/swift-cmark/src/cmark_ctype.c
+  s_1c9f47cfbd062d::t_a610c1bdf51d56 1-44
+Vendor/swift-cmark/src/commonmark.c
+  s_1c9f47cfbd062d::t_87df2cd5b8ead9 1-525
+Vendor/swift-cmark/src/config.h.in
+  s_1c9f47cfbd062d::t_e248b1ddc9f718 1-70
+Vendor/swift-cmark/src/entities.inc
+  s_1c9f47cfbd062d::t_d69cbfe3f7cf5b 1-2138
+Vendor/swift-cmark/src/footnotes.c
+  s_1c9f47cfbd062d::t_e350fcbf011a2d 1-63
+Vendor/swift-cmark/src/houdini_href_e.c
+  s_1c9f47cfbd062d::t_b28f8b607d024c 1-100
+Vendor/swift-cmark/src/houdini_html_e.c
+  s_1c9f47cfbd062d::t_a3907c89ee276a 1-66
+Vendor/swift-cmark/src/houdini_html_u.c
+  s_1c9f47cfbd062d::t_2b4f7943f42dfb 1-149
+Vendor/swift-cmark/src/html.c
+  s_1c9f47cfbd062d::t_c6527c9ef45a15 1-515
+Vendor/swift-cmark/src/include/buffer.h
+  s_1c9f47cfbd062d::t_b23f86fd9b63bb 1-116
+Vendor/swift-cmark/src/include/chunk.h
+  s_1c9f47cfbd062d::t_803912db1e9dff 1-135
+Vendor/swift-cmark/src/include/cmark-gfm-extension_api.h
+  s_1c9f47cfbd062d::t_c21ce7f9c4524e 1-737
+Vendor/swift-cmark/src/include/cmark-gfm.h
+  s_1c9f47cfbd062d::t_59e43e1ab8a4fe 1-876
+Vendor/swift-cmark/src/include/cmark-gfm_config.h
+  s_1c9f47cfbd062d::t_db7b83f3e01d0d 1-86
+Vendor/swift-cmark/src/include/cmark-gfm_version.h
+  s_1c9f47cfbd062d::t_fbfa55f40581a2 1-7
+Vendor/swift-cmark/src/include/cmark_ctype.h
+  s_1c9f47cfbd062d::t_65995c561e29f5 1-33
+Vendor/swift-cmark/src/include/export.h
+  s_1c9f47cfbd062d::t_ad1d37fd0d1530 1-50
+Vendor/swift-cmark/src/include/footnotes.h
+  s_1c9f47cfbd062d::t_21c2f731909a66 1-27
+Vendor/swift-cmark/src/include/houdini.h
+  s_1c9f47cfbd062d::t_4ac9303980bb0b 1-57
+Vendor/swift-cmark/src/include/html.h
+  s_1c9f47cfbd062d::t_a461825cbdc3af 1-27
+Vendor/swift-cmark/src/include/inlines.h
+  s_1c9f47cfbd062d::t_218518f925a7f3 1-38
+Vendor/swift-cmark/src/include/iterator.h
+  s_1c9f47cfbd062d::t_10c14d378a8bbe 1-26
+Vendor/swift-cmark/src/include/map.h
+  s_1c9f47cfbd062d::t_bc6c45f4fc8064 1-44
+Vendor/swift-cmark/src/include/module.modulemap
+  s_1c9f47cfbd062d::t_68fa50a5fb3ce7 1-25
+Vendor/swift-cmark/src/include/mutex.h
+  s_1c9f47cfbd062d::t_910dbdd498a506 1-76
+Vendor/swift-cmark/src/include/node.h
+  s_1c9f47cfbd062d::t_add6112da7fc71 1-172
+Vendor/swift-cmark/src/include/parser.h
+  s_1c9f47cfbd062d::t_e308cc2bf93377 1-63
+Vendor/swift-cmark/src/include/plugin.h
+  s_1c9f47cfbd062d::t_116f896e5ffbd4 1-34
+Vendor/swift-cmark/src/include/references.h
+  s_1c9f47cfbd062d::t_79d9a7b478c9e3 1-30
+Vendor/swift-cmark/src/include/registry.h
+  s_1c9f47cfbd062d::t_1dc8e2cf7b860d 1-24
+Vendor/swift-cmark/src/include/render.h
+  s_1c9f47cfbd062d::t_d057e6faacb49f 1-62
+Vendor/swift-cmark/src/include/scanners.h
+  s_1c9f47cfbd062d::t_21fbdd71e44f69 1-70
+Vendor/swift-cmark/src/include/syntax_extension.h
+  s_1c9f47cfbd062d::t_b9907d7f2c02ab 1-34
+Vendor/swift-cmark/src/include/utf8.h
+  s_1c9f47cfbd062d::t_c10a3e90443868 1-35
+Vendor/swift-cmark/src/inlines.c
+  s_1c9f47cfbd062d::t_1a79cf36f0e5bc 1-2016
+Vendor/swift-cmark/src/iterator.c
+  s_1c9f47cfbd062d::t_ba66b2f2848d67 1-159
+Vendor/swift-cmark/src/latex.c
+  s_1c9f47cfbd062d::t_bf8fd608a7ed58 1-469
+Vendor/swift-cmark/src/libcmark-gfm.pc.in
+  s_1c9f47cfbd062d::t_3fc35158891fa9 1-10
+Vendor/swift-cmark/src/linked_list.c
+  s_1c9f47cfbd062d::t_c6e8ea078e60b7 1-37
+Vendor/swift-cmark/src/man.c
+  s_1c9f47cfbd062d::t_83df518182305d 1-278
+Vendor/swift-cmark/src/map.c
+  s_1c9f47cfbd062d::t_1a17cddfcde16b 1-129
+Vendor/swift-cmark/src/node.c
+  s_1c9f47cfbd062d::t_922257ee0d3986 1-1120
+Vendor/swift-cmark/src/plaintext.c
+  s_1c9f47cfbd062d::t_063fa3cc8961a8 1-222
+Vendor/swift-cmark/src/plugin.c
+  s_1c9f47cfbd062d::t_cad26f0834747b 1-36
+Vendor/swift-cmark/src/references.c
+  s_1c9f47cfbd062d::t_43c1bc6405fe07 1-70
+Vendor/swift-cmark/src/registry.c
+  s_1c9f47cfbd062d::t_272fc681f691fe 1-85
+Vendor/swift-cmark/src/render.c
+  s_1c9f47cfbd062d::t_e10fba910a76fc 1-213
+Vendor/swift-cmark/src/scanners.c
+  s_1c9f47cfbd062d::t_8394e97424d83e 1-14056
+Vendor/swift-cmark/src/scanners.re
+  s_1c9f47cfbd062d::t_2e761967d7a1c5 1-365
+Vendor/swift-cmark/src/syntax_extension.c
+  s_1c9f47cfbd062d::t_a85239f6def252 1-154
+Vendor/swift-cmark/src/utf8.c
+  s_1c9f47cfbd062d::t_d0de7b88acfe83 1-317
+Vendor/swift-cmark/src/xml.c
+  s_1c9f47cfbd062d::t_272e24b781f898 1-185
+Vendor/swift-cmark/suppressions
+  s_1c9f47cfbd062d::t_b1309994729dd7 1-10
+Vendor/swift-cmark/test/CMakeLists.txt
+  s_1c9f47cfbd062d::t_7559b52a5d362b 1-114
+Vendor/swift-cmark/test/afl_test_cases/test.md
+  s_1c9f47cfbd062d::t_38050674ab5803 1-49
+Vendor/swift-cmark/test/cmark-fuzz.c
+  s_1c9f47cfbd062d::t_ada5ba84d0ef84 1-58
+Vendor/swift-cmark/test/cmark.py
+  s_1c9f47cfbd062d::t_2726c9da1765da 1-105
+Vendor/swift-cmark/test/entity_tests.py
+  s_1c9f47cfbd062d::t_03dfb54227a03a 1-67
+Vendor/swift-cmark/test/extensions-table-prefer-style-attributes.txt
+  s_1c9f47cfbd062d::t_df91d7892b8871 1-38
+Vendor/swift-cmark/test/extensions.txt
+  s_1c9f47cfbd062d::t_6e31005708689b 1-920
+Vendor/swift-cmark/test/fuzzing_dictionary
+  s_1c9f47cfbd062d::t_5ac5137e587f66 1-67
+Vendor/swift-cmark/test/normalize.py
+  s_1c9f47cfbd062d::t_62b2a083e9076f 1-194
+Vendor/swift-cmark/test/pathological_tests.py
+  s_1c9f47cfbd062d::t_2aa21c950e85a7 1-163
+Vendor/swift-cmark/test/regression.txt
+  s_1c9f47cfbd062d::t_59a49b7cd105f3 1-375
+Vendor/swift-cmark/test/roundtrip_tests.py
+  s_1c9f47cfbd062d::t_e6e499b88cbee6 1-50
+Vendor/swift-cmark/test/run-cmark-fuzz
+  s_1c9f47cfbd062d::t_d073b46c432972 1-4
+Vendor/swift-cmark/test/smart_punct.txt
+  s_1c9f47cfbd062d::t_2f82154dbde31f 1-177
+Vendor/swift-cmark/test/spec.txt
+  s_1c9f47cfbd062d::t_34d68e9c5aedda 1-10212
+Vendor/swift-cmark/test/spec_tests.py
+  s_1c9f47cfbd062d::t_2ba177ad803b87 1-152
+Vendor/swift-cmark/toolchain-mingw32.cmake
+  s_1c9f47cfbd062d::t_76925702be9039 1-17
+Vendor/swift-cmark/tools/Dockerfile
+  s_1c9f47cfbd062d::t_8c07817836850b 1-41
+Vendor/swift-cmark/tools/appveyor-build.bat
+  s_1c9f47cfbd062d::t_9643517ad6d59e 1-13
+Vendor/swift-cmark/tools/make_entities_inc.py
+  s_1c9f47cfbd062d::t_4dbe177bdeda2b 1-32
+Vendor/swift-cmark/tools/mkcasefold.pl
+  s_1c9f47cfbd062d::t_331d98eaa157fd 1-22
+Vendor/swift-cmark/tools/xml2md.xsl
+  s_1c9f47cfbd062d::t_fcb03688c7b056 1-319
+Vendor/swift-cmark/tools/xml2md_gfm.xsl
+  s_1c9f47cfbd062d::t_214d31389bcb0f 1-80
+Vendor/swift-cmark/why-cmark-and-not-x.md
+  s_1c9f47cfbd062d::t_dacf49e4c1d079 1-104
+Vendor/swift-cmark/wrappers/wrapper.js
+  s_1c9f47cfbd062d::t_a06e73a2fe089c 1-6
+Vendor/swift-cmark/wrappers/wrapper.py
+  s_1c9f47cfbd062d::t_4810f511bf66ef 1-37
+Vendor/swift-cmark/wrappers/wrapper.rb
+  s_1c9f47cfbd062d::t_20d023dfc5999e 1-15
+Vendor/swift-cmark/wrappers/wrapper.rkt
+  s_1c9f47cfbd062d::t_ba71248ec34555 1-208
+Vendor/swift-cmark/wrappers/wrapper_ext.py
+  s_1c9f47cfbd062d::t_c6bf563190f490 1-109
+Vendor/swift-markdown-ui/LICENSE
+  s_1c9f47cfbd062d::t_8800b0f8f8261a 1-22
+Vendor/swift-markdown-ui/Package.swift
+  s_1c9f47cfbd062d::t_b80a4bb17da56d 1-34
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/Blockquote.swift
+  s_1c9f47cfbd062d::t_628d304d2398f2 1-34
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/BulletedList.swift
+  s_1c9f47cfbd062d::t_49f5c56057c7f6 1-113
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/CodeBlock.swift
+  s_1c9f47cfbd062d::t_c290880f629f7e 1-44
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/Heading.swift
+  s_1c9f47cfbd062d::t_7d6cc81d19ca71 1-47
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/ListContentBuilder.swift
+  s_1c9f47cfbd062d::t_99aaa65e70bc2e 1-37
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/ListItem.swift
+  s_1c9f47cfbd062d::t_b17035a9c6b06f 1-40
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/MarkdownContent.swift
+  s_1c9f47cfbd062d::t_3b9a55d86b916a 1-116
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/MarkdownContentBuilder.swift
+  s_1c9f47cfbd062d::t_4979ba3632a166 1-37
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/NumberedList.swift
+  s_1c9f47cfbd062d::t_dfc93b84ee0109 1-116
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/Paragraph.swift
+  s_1c9f47cfbd062d::t_fe18f78b3249ff 1-38
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TaskList.swift
+  s_1c9f47cfbd062d::t_4bd79dfedb3995 1-105
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TaskListContentBuilder.swift
+  s_1c9f47cfbd062d::t_b63f357cdfed0d 1-37
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TaskListItem.swift
+  s_1c9f47cfbd062d::t_a22f8a7c84ec87 1-41
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTable.swift
+  s_1c9f47cfbd062d::t_afb1bb55275b5d 1-127
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTableColumn.swift
+  s_1c9f47cfbd062d::t_e55c64f3e535c6 1-81
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTableColumnAlignment.swift
+  s_1c9f47cfbd062d::t_bc48e21b6dd948 1-6
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTableColumnBuilder.swift
+  s_1c9f47cfbd062d::t_bc1941a8128e38 1-44
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTableRow.swift
+  s_1c9f47cfbd062d::t_d5f81b951dcf20 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/TextTableRowBuilder.swift
+  s_1c9f47cfbd062d::t_106d38cb2d6f59 1-32
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Blocks/ThematicBreak.swift
+  s_1c9f47cfbd062d::t_266b6d66787cbb 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/Code.swift
+  s_1c9f47cfbd062d::t_35088c3af13a69 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/Emphasis.swift
+  s_1c9f47cfbd062d::t_4b0a6f65c3791a 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/InlineContent.swift
+  s_1c9f47cfbd062d::t_aac582fc0ab5ea 1-50
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/InlineContentBuilder.swift
+  s_1c9f47cfbd062d::t_a0e2fc06457031 1-36
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/InlineImage.swift
+  s_1c9f47cfbd062d::t_57521ab7f5db05 1-54
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/InlineLink.swift
+  s_1c9f47cfbd062d::t_df474c6b38d7d5 1-59
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/LineBreak.swift
+  s_1c9f47cfbd062d::t_91f70c4ab61019 1-13
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/SoftBreak.swift
+  s_1c9f47cfbd062d::t_4c9c51d8650c91 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/Strikethrough.swift
+  s_1c9f47cfbd062d::t_d49af0f0eadb18 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/DSL/Inlines/Strong.swift
+  s_1c9f47cfbd062d::t_858f3a91557f4c 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/AssetImageProvider.swift
+  s_1c9f47cfbd062d::t_490341ea892d03 1-76
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/AssetInlineImageProvider.swift
+  s_1c9f47cfbd062d::t_993e22a511b5a1 1-32
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/CodeSyntaxHighlighter.swift
+  s_1c9f47cfbd062d::t_8621817b107521 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/DefaultImageProvider.swift
+  s_1c9f47cfbd062d::t_2f3c424aef3737 1-28
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/DefaultInlineImageProvider.swift
+  s_1c9f47cfbd062d::t_17589f3c22637f 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/ImageProvider.swift
+  s_1c9f47cfbd062d::t_d55c39c77a7060 1-41
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Extensibility/InlineImageProvider.swift
+  s_1c9f47cfbd062d::t_bf8aff1f70d758 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/BlockNode+Rewrite.swift
+  s_1c9f47cfbd062d::t_25c51998007d6a 1-104
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/BlockNode.swift
+  s_1c9f47cfbd062d::t_334c3b6653c6b3 1-60
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/HTMLTag.swift
+  s_1c9f47cfbd062d::t_d6ba2558e19ef0 1-25
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/InlineNode+Collect.swift
+  s_1c9f47cfbd062d::t_8d929b1c637901 1-13
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/InlineNode+Rewrite.swift
+  s_1c9f47cfbd062d::t_40efda36ae13b2 1-15
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/InlineNode.swift
+  s_1c9f47cfbd062d::t_5830b0e0970727 1-52
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Parser/MarkdownParser.swift
+  s_1c9f47cfbd062d::t_b1601be43a54e7 1-515
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Renderer/AttributedStringInlineRenderer.swift
+  s_1c9f47cfbd062d::t_d74ae599be9dcb 1-165
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Renderer/InlineTextStyles.swift
+  s_1c9f47cfbd062d::t_6eb32cd0abb1f3 1-9
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Renderer/TextInlineRenderer.swift
+  s_1c9f47cfbd062d::t_17cd397d8faaba 1-121
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/BlockConfiguration.swift
+  s_1c9f47cfbd062d::t_69d92d27f5018e 1-28
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/BlockStyle.swift
+  s_1c9f47cfbd062d::t_0b347cf7849b21 1-62
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/CodeBlockConfiguration.swift
+  s_1c9f47cfbd062d::t_6fc9c2fd265a06 1-25
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/ListBullet.swift
+  s_1c9f47cfbd062d::t_f995d192e60f08 1-24
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/ListMarkerConfiguration.swift
+  s_1c9f47cfbd062d::t_9ebe4358213462 1-81
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/TableBackgroundStyle.swift
+  s_1c9f47cfbd062d::t_a4a9693da7c81f 1-63
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/TableBorderStyle.swift
+  s_1c9f47cfbd062d::t_1eb34a90bab155 1-70
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/TableCellConfiguration.swift
+  s_1c9f47cfbd062d::t_e186359ba8b4e1 1-28
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/BlockStyle/TaskListMarkerConfiguration.swift
+  s_1c9f47cfbd062d::t_e0648d96a86549 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/BackgroundColor.swift
+  s_1c9f47cfbd062d::t_2ee2fdc4619362 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/EmptyTextStyle.swift
+  s_1c9f47cfbd062d::t_d2c9e2f18d1627 1-9
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/Font+FontProperties.swift
+  s_1c9f47cfbd062d::t_40bb06cf0b10bb 1-59
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontCapsVariant.swift
+  s_1c9f47cfbd062d::t_ae1211d8ebf163 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontDigitVariant.swift
+  s_1c9f47cfbd062d::t_f1596c686f77f5 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontFamily.swift
+  s_1c9f47cfbd062d::t_29030664325c91 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontFamilyVariant.swift
+  s_1c9f47cfbd062d::t_7008283759cfc5 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontProperties.swift
+  s_1c9f47cfbd062d::t_e15a0a7959ede6 1-189
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontPropertiesAttribute.swift
+  s_1c9f47cfbd062d::t_75a0e1d0450f91 1-41
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontSize.swift
+  s_1c9f47cfbd062d::t_589ab5dde27585 1-38
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontStyle.swift
+  s_1c9f47cfbd062d::t_7bfda359541fac 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontWeight.swift
+  s_1c9f47cfbd062d::t_7010f836686e85 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/FontWidth.swift
+  s_1c9f47cfbd062d::t_a04a302707c306 1-17
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/ForegroundColor.swift
+  s_1c9f47cfbd062d::t_aaea62ed358ea0 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/StrikethroughStyle.swift
+  s_1c9f47cfbd062d::t_dc3bcd88d716d7 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/TextKerning.swift
+  s_1c9f47cfbd062d::t_ea15c6aa5c9382 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/TextTracking.swift
+  s_1c9f47cfbd062d::t_aa742dfe915ed4 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/Styles/UnderlineStyle.swift
+  s_1c9f47cfbd062d::t_82affb9e976446 1-16
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/TextStyle.swift
+  s_1c9f47cfbd062d::t_914b94198192be 1-62
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/TextStyle/TextStyleBuilder.swift
+  s_1c9f47cfbd062d::t_fdb0c22bb1267c 1-80
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/Theme+Basic.swift
+  s_1c9f47cfbd062d::t_c99ebdfa60d096 1-117
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/Theme+DocC.swift
+  s_1c9f47cfbd062d::t_1deda97573f9a3 1-178
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/Theme+GitHub.swift
+  s_1c9f47cfbd062d::t_9c9805a0d74900 1-196
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Theme/Theme.swift
+  s_1c9f47cfbd062d::t_88470c203484cd 1-467
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/BlockNode+ColorSchemeImage.swift
+  s_1c9f47cfbd062d::t_b94d59b55aae85 1-34
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/Color+RGBA.swift
+  s_1c9f47cfbd062d::t_e0f9f4d277dd9b 1-47
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/Deprecations.swift
+  s_1c9f47cfbd062d::t_030177a5f07f76 1-494
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/FlowLayout.swift
+  s_1c9f47cfbd062d::t_77647561370b6e 1-93
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/Indexed.swift
+  s_1c9f47cfbd062d::t_f4849fb3d62c7e 1-17
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/InlineNode+PlainText.swift
+  s_1c9f47cfbd062d::t_6243755baf3d67 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/InlineNode+RawImageData.swift
+  s_1c9f47cfbd062d::t_27447e1543ae9d 1-22
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/Int+Roman.swift
+  s_1c9f47cfbd062d::t_e4fd5579a5e663 1-25
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/RelativeSize.swift
+  s_1c9f47cfbd062d::t_2e1d49d5431e9d 1-114
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/ResizeToFit.swift
+  s_1c9f47cfbd062d::t_ac5a3775731d83 1-85
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Utility/String+KebabCase.swift
+  s_1c9f47cfbd062d::t_2139c4efb0fd69 1-9
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/BlockMargin.swift
+  s_1c9f47cfbd062d::t_883c33dd2ada06 1-111
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/BlockNode+View.swift
+  s_1c9f47cfbd062d::t_09812568ea7348 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/BlockSequence.swift
+  s_1c9f47cfbd062d::t_6f57e773ef5302 1-70
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/BlockquoteView.swift
+  s_1c9f47cfbd062d::t_ba4b02c9c2c6bd 1-20
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/BulletedListView.swift
+  s_1c9f47cfbd062d::t_0c37cc8865c80f 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/CodeBlockView.swift
+  s_1c9f47cfbd062d::t_b3ecd3a131b484 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ColumnWidthPreference.swift
+  s_1c9f47cfbd062d::t_b748253ec790c7 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/HeadingView.swift
+  s_1c9f47cfbd062d::t_fe39ec8110cff4 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ImageFlow.swift
+  s_1c9f47cfbd062d::t_8aac529c161ace 1-58
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ListItemSequence.swift
+  s_1c9f47cfbd062d::t_f0c0e7e5f097bd 1-32
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ListItemView.swift
+  s_1c9f47cfbd062d::t_aecebf781750ea 1-67
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/NumberedListView.swift
+  s_1c9f47cfbd062d::t_430a9a628622bb 1-48
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ParagraphView.swift
+  s_1c9f47cfbd062d::t_60f091c2a828de 1-40
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableBackgroundView.swift
+  s_1c9f47cfbd062d::t_1e00dad0c8c444 1-26
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableBorderSelector.swift
+  s_1c9f47cfbd062d::t_2e7d4816e0e263 1-92
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableBorderView.swift
+  s_1c9f47cfbd062d::t_0df1195ec0a693 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableBounds.swift
+  s_1c9f47cfbd062d::t_b056107a9f122d 1-128
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableCell.swift
+  s_1c9f47cfbd062d::t_dabb450cac82aa 1-36
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TableView.swift
+  s_1c9f47cfbd062d::t_739a1c1ceadb44 1-65
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TaskListItemView.swift
+  s_1c9f47cfbd062d::t_f919c19368d724 1-30
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TaskListView.swift
+  s_1c9f47cfbd062d::t_ed2e5375d3c2b3 1-32
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/TextStyleAttributesReader.swift
+  s_1c9f47cfbd062d::t_aee523cd0d5488 1-21
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Blocks/ThematicBreakView.swift
+  s_1c9f47cfbd062d::t_66cdd9e170d32e 1-9
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+BaseURL.swift
+  s_1c9f47cfbd062d::t_2d5ed8add48380 1-21
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+CodeSyntaxHighlighter.swift
+  s_1c9f47cfbd062d::t_188cdfd9aa0b55 1-27
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+ImageProvider.swift
+  s_1c9f47cfbd062d::t_1d32810e01b854 1-24
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+InlineImageProvider.swift
+  s_1c9f47cfbd062d::t_ca50baa8fcabe5 1-24
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+List.swift
+  s_1c9f47cfbd062d::t_1680f19c96fa46 1-21
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+SoftBreakMode.swift
+  s_1c9f47cfbd062d::t_f393a6a2ba1888 1-23
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+Table.swift
+  s_1c9f47cfbd062d::t_2e8d757ffa3437 1-45
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+TextStyle.swift
+  s_1c9f47cfbd062d::t_9dfdccf3d10701 1-55
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Environment/Environment+Theme.swift
+  s_1c9f47cfbd062d::t_f9fc5bffa452a7 1-74
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Inlines/ImageView.swift
+  s_1c9f47cfbd062d::t_f7e34f2d3182b4 1-90
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Inlines/InlineText.swift
+  s_1c9f47cfbd062d::t_d19708c66fda0e 1-63
+Vendor/swift-markdown-ui/Sources/MarkdownUI/Views/Markdown.swift
+  s_1c9f47cfbd062d::t_2ae9d6fc9de3fc 1-299
+docs/public/BUILDING.md
+  s_967679197c1a8b::t_e7cca75210fa58 1-24
+docs/public/INSTALL.txt
+  s_967679197c1a8b::t_72ca48a7b956e3 1-14
+scripts/build.sh
+  s_967679197c1a8b::t_3a7d95084abc71 1-58
+scripts/make-app-icon.swift
+  s_1c9f47cfbd062d::t_1033fc5272f9ed 1-33
+scripts/package-dmg.sh
+  s_967679197c1a8b::t_f086201890c1a9 1-59
+scripts/setup-agent-runtime.sh
+  s_967679197c1a8b::t_803ea5305ba338 1-19
+scripts/setup-model-runtime.sh
+  s_967679197c1a8b::t_68501514e7bebe 1-16
+scripts/test-python.py
+  s_967679197c1a8b::t_201379e8fc8496 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ae7a6ecfb8954023d1ec7df24f9a2b0ec13f9d71",
+  "prompts": {},
+  "sessions": {
+    "s_1c9f47cfbd062d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0987d-7e51-7ac3-b7e6-e60364e0af6d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "cellier <7893545+cellier@users.noreply.github.com>"
+    },
+    "s_967679197c1a8b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a0ab-86d5-7cc3-b97c-15cd73b8ad5c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "cellier <7893545+cellier@users.noreply.github.com>"
+    }
+  }
+}
