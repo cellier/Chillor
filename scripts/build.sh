@@ -4,7 +4,12 @@ cd "${0:A:h:h}"
 mkdir -p work outputs
 swift scripts/make-app-icon.swift Resources/AppIcon.png work/AppIcon.iconset
 iconutil -c icns work/AppIcon.iconset -o Resources/AppIcon.icns
-swift build -c release
+chillor_swift_args=()
+if [[ -n "${CHILLOR_SWIFT_SDK:-}" ]]; then
+  [[ -d "$CHILLOR_SWIFT_SDK" ]] || { print -u2 'CHILLOR_SWIFT_SDK does not exist'; exit 1; }
+  chillor_swift_args=(--sdk "$CHILLOR_SWIFT_SDK")
+fi
+swift build -c release "${chillor_swift_args[@]}"
 app_path="$PWD/outputs/Chillor.app"
 mkdir -p "$app_path/Contents/MacOS" "$app_path/Contents/Resources"
 cp .build/release/Chillor "$app_path/Contents/MacOS/Chillor.next"

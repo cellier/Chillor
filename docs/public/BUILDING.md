@@ -22,3 +22,15 @@ Swift rendering dependencies are vendored with licenses in `Vendor/`. `swift bui
 This packages `outputs/Chillor.app`, verifies the signature, mounts the DMG read-only, compares its complete app manifest against the build, and writes checksums. Files go to `outputs/内测试用包/`. A custom local `安装与试用说明.txt` there overrides the repository's `docs/public/INSTALL.txt`.
 
 Default signing is ad hoc for development. Public end-user distribution should have a stable Developer ID identity and a separately implemented notarization workflow. Do not describe an ad hoc build as notarized. Do not include model weights or user state in releases.
+
+## Verified SDK selection
+
+On the publication host, Swift 6.4's default macOS 27 SDK failed with a missing `SwiftUIMacros` plugin. The native release build passed with the installed macOS 26.5 SDK:
+
+```sh
+swift build -c release --sdk /Library/Developer/CommandLineTools/SDKs/MacOSX26.5.sdk
+# For full app packaging with that same SDK:
+CHILLOR_SWIFT_SDK=/Library/Developer/CommandLineTools/SDKs/MacOSX26.5.sdk ./scripts/build.sh
+```
+
+Use a compatible SDK actually installed on your machine. Do not assume this example path exists on every Mac.
