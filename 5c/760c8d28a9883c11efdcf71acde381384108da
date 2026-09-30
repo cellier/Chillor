@@ -1,0 +1,23 @@
+docs/public/BUILDING.md
+  s_967679197c1a8b::t_f89a4810c226f4 25-36
+docs/public/VALIDATION.md
+  s_967679197c1a8b::t_2c5fe25743d9e0 6
+scripts/build.sh
+  s_967679197c1a8b::t_a932afdd1aa39d 7-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "5c760c8d28a9883c11efdcf71acde381384108da",
+  "prompts": {},
+  "sessions": {
+    "s_967679197c1a8b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a0ab-86d5-7cc3-b97c-15cd73b8ad5c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "cellier <7893545+cellier@users.noreply.github.com>"
+    }
+  }
+}
