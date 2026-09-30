@@ -1,0 +1,22 @@
+README.zh-CN.md
+  s_967679197c1a8b::t_d3c4063e9bb094 1-92
+README.md
+  s_967679197c1a8b::t_d3c4063e9bb094 3-4,9-19
+  s_967679197c1a8b::t_9bc377afb13d7e 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "57f6fba22c53b17c097d394856d3c627a29c0812",
+  "prompts": {},
+  "sessions": {
+    "s_967679197c1a8b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0a0ab-86d5-7cc3-b97c-15cd73b8ad5c",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "cellier <7893545+cellier@users.noreply.github.com>"
+    }
+  }
+}
