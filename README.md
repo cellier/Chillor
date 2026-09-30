@@ -1,8 +1,22 @@
 # Chillor
 
+**English · [简体中文](README.zh-CN.md)**
+
 A local-first AI assistant for macOS. Express what you want to accomplish; Chillor manages conversation context, task workspaces, tools, and memory.
 
 **Early preview, under active development.** Local inference uses Ollama and Qwen. An optional DeepSeek provider is available in Settings; selecting it sends inference context to that provider. There is no automatic local-to-cloud fallback.
+
+## Interface preview
+
+### Keep your work in one conversation
+
+<img src="docs/public/media/conversation.png" alt="Chillor's native conversation view showing a sample book-club preparation checklist" width="640">
+
+### Find earlier context
+
+<img src="docs/public/media/search.png" alt="Chillor's conversation search showing matching sample messages" width="640">
+
+These are real macOS screenshots of the current source build, populated with synthetic demo content. They contain no personal conversation data and illustrate the interface, not a live model run or latency benchmark.
 
 ## What is implemented
 
